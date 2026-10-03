@@ -1,0 +1,1 @@
+If the Android folder is incomplete for your Flutter version, run `flutter create .` once in the project root, choosing the existing Dart files/assets. Then run `flutter pub get` and `flutter run`. The application code and database are already included.
